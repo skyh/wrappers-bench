@@ -1,0 +1,11 @@
+{
+	"autoload": {
+		"classmap": [
+			"src/"
+		]
+	},
+	"require-dev": {
+		"phpbench/phpbench": "^0.17",
+		"phpunit/phpunit": "^9.0"
+	}
+}
